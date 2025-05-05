@@ -1,2 +1,3 @@
 # demo1
-first repository
+my first repository
+author-riddhi sawant
