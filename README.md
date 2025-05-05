@@ -1,4 +1,4 @@
 # demo1
 my first repository
 <br>
-author-riddhi sawant
+author-riddhi sawant(student)
